@@ -1,0 +1,34 @@
+Hi
+there
+welcome
+to
+CS 201
+this
+is
+a
+lab
+assignment
+for
+the
+course
+CS 201
+you
+will
+be
+working
+on
+a
+project
+that
+involves
+using
+a
+programming
+language
+called
+cpp
+ok
+now
+go
+have
+fun
